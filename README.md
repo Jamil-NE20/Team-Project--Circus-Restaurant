@@ -8,7 +8,8 @@ Team Members:
 •	Md Jamil Uddin.
 •	Synnöve Settman
 
-Description
+Description:
+
 The website, landing pages for the Circus Restaurant is divided into the following sections:
 •	A header section with the logo and title of the Restaurant.
 •	A Home page section
@@ -20,27 +21,32 @@ o	User can see the available date and time for book the circus show. The circus 
 •	A About Us section
 •	A footer section with the Contact details, Opening hours, Circus Show timings, location map.
 
-Requirements
+Requirements:
+
 •	A phone, tablet or PC
 •	Internet connectivity
 •	A browser of your choice.
 
-Technologies / Tools used
+Technologies / Tools used:
+
 •	HTML and CSS
 •	Bootstrap
 •	JavaScript
 •	jQuery
 
-Future Work
+Future Work:
+
 Back-end development:
 •	Create cookies files that remember the user in case the user switch between different pages.
 •	Finish the checking out process of the food with the payment methods.
 •	Make sure the booking is within the available tables in the restaurant to avoid overbooking.
 
-Known Bugs
+Known Bugs:
+
 •	There are no known bugs.
 
-License
+License:
+
 •	No License
 
 
