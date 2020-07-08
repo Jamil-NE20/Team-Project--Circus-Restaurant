@@ -1,0 +1,12 @@
+
+Home & Template:
+Header background color: #e9253c
+Nav Bar background color: #ee5869
+Body background color: #eae2d6
+Footer background color:#e9253c
+Pop up ad background color: #a9baa0
+About Us background color: #a9baa0
+contact us background color: #fbf6ef
+
+Order item card Background color:#003249
+Booking card Background color: #003249
